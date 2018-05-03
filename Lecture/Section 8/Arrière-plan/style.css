@@ -1,0 +1,5 @@
+* {
+    background: url('cat.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

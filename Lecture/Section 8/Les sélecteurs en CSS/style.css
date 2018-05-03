@@ -1,0 +1,23 @@
+* {
+    color: red;
+}
+
+h2 {
+    color: green;
+}
+
+.monTitre {
+    color: yellow;
+}
+
+#monTitre {
+    color: blue;
+}
+
+ul li {
+    color: orange;
+}
+
+h4, h5, h6 {
+    color: purple;
+}
